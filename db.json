@@ -1,0 +1,10 @@
+[
+    {
+        "personId": "b3248899-cf35-44e0-03aa-08d84dd66872",
+        "approvable": true
+    },
+    {
+        "personId": "7c02ae44-c8af-4a26-d228-08d871a70ef0",
+        "approvable": false
+    }
+]
